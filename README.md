@@ -1,7 +1,4 @@
 # Parameter Optimisation SVM
-## Ikjot Singh 
-## 102116071   
-## 3CS11
 
 ### Steps
 - Importing Libraries
